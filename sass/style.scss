@@ -31,9 +31,6 @@ body {
     flex-direction: row;
     justify-content: space-between;
 }
-.left-side {
-    
-}
 .left-side, .right-side {
     flex-basis: 41%;
 }
@@ -155,11 +152,10 @@ footer {
         display: block;
         text-indent: -5000px;
         margin: 20px auto 0 auto;
-        width: 363px;
-        height: 134px;
+        height: 141px;
         background-repeat: no-repeat;
         background-position: center top;
-        background-size: cover;
+        background-size: 300px;
         opacity: 0.5;
     }
 }
