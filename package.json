@@ -26,15 +26,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcinw99/learning-git-2.git"
+    "url": "git+https://github.com/dankudyba/weekly_webdev_challenge1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marcinw99/learning-git-2/issues"
+    "url": "https://github.com/dankudyba/weekly_webdev_challenge1/issues"
   },
-  "homepage": "https://github.com/marcinw99/learning-git-2#readme",
+  "homepage": "https://github.com/dankudyba/weekly_webdev_challenge1#readme",
   "dependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.19.0",
